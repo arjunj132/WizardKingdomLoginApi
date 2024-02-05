@@ -20,5 +20,3 @@ def index(user, pwd):
 
   return database["jakkipally@gmail.com"]
 
-
-app.run(host='0.0.0.0', port=81)
